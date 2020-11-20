@@ -1,2 +1,2 @@
 # Data-Science
-This Repository Consists Of some DataScience Concepts implementation in Python including Small Projects
+This Repository Consists  implementation of some DataScience Concepts in  Python including Small Projects
